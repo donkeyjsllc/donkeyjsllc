@@ -1,6 +1,6 @@
 # Donkey Jaw Services LLC ⚡
 
-Practical engineering, cloud infrastructure, and modern web applications built out of Choctaw, Oklahoma.[cite: 9]
+Practical engineering, cloud infrastructure, and modern web applications built out of Choctaw, Oklahoma.
 
 ---
 
@@ -12,9 +12,9 @@ Practical engineering, cloud infrastructure, and modern web applications built o
 ---
 
 ### 🌐 Live Ecosystem
-* **[Donkey Jaw Services](https://donkeyjawservices.com)** — Core business, digital consulting, and enterprise operations.[cite: 9]
-* **[Okie Darling Co](https://okiedarlingco.com)** — Commercial client storefront and digital brand presence.[cite: 8]
-* **[MaintenanceVault](https://maintenancevaultapp.com)** — Dedicated maintenance recording and asset-tracking web application.[cite: 1]
+* **[Donkey Jaw Services](https://donkeyjawservices.com)** — Core business, digital consulting, and enterprise operations.
+* **[Okie Darling Co](https://okiedarlingco.com)** — Commercial client storefront and digital brand presence.
+* **[MaintenanceVault](https://maintenancevaultapp.com)** — Dedicated maintenance recording and asset-tracking web application.
 
 ---
 
@@ -26,6 +26,6 @@ Practical engineering, cloud infrastructure, and modern web applications built o
 ---
 
 ### 📬 Connect
-* **Location:** Choctaw, OK[cite: 9]
-* **Web:** [donkeyjawservices.com](https://donkeyjawservices.com)[cite: 9]
+* **Location:** Choctaw, OK
+* **Web:** [donkeyjawservices.com](https://donkeyjawservices.com)
 * **Status:** In active production across internal products and client deployments
